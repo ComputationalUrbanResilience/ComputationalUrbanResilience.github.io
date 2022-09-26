@@ -2536,7 +2536,7 @@ input, select, textarea {
 		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/Essex_sides.png");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
-		background-size: 35em, 35em, auto, cover;
+		background-size: 35em, 45em, auto, cover;
 		color: #fff;
 		cursor: default;
 		padding: 6em 0;
